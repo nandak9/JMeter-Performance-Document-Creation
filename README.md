@@ -14,7 +14,7 @@ General stack of technologies:
 
 Preconditions:
 - Installed Java JDK 1.8
-- Downloaded JMeter (apache-jmeter-3.2, link: http://jmeter.apache.org/download_jmeter.cgi )
+- Downloaded JMeter (apache-jmeter, link: http://jmeter.apache.org/download_jmeter.cgi )
 
 Instructions:
 - Run "jmeter.bat" in "\bin" directory
